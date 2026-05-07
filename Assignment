@@ -2,7 +2,7 @@ git config --global user.name "Alastor King"
 git config --global user.email "alastorm2013@gmail.com"
 
 git clone https://github.com/alastorm2013/Repository-Assignment.git
-cd Respository-Assignment
+cd Repository-Assignment
 
 echo "Welcome to my repo" > README.md
 
