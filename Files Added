@@ -1,0 +1,5 @@
+copy C:\Users\kingal\Downloads\Object Orientation\* .
+
+git add .
+git commit -m "Added week 1 assignment files"
+git push origin main
