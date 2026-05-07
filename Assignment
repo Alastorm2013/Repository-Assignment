@@ -1,0 +1,12 @@
+git config --global user.name "Alastor King"
+git config --global user.email "alastorm2013@gmail.com"
+
+git clone https://github.com/alastorm2013/Repository-Assignment.git
+cd Respository-Assignment
+
+echo "Welcome to my repo" > README.md
+
+git add README.md
+git commit -m "Added README file"
+git push origin main
+
